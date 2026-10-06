@@ -1,0 +1,16 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="28" fill="#0f172a"/>
+  <rect x="92" y="90" width="616" height="420" rx="24" fill="#f8fafc"/>
+  <circle cx="128" cy="126" r="8" fill="#f87171"/>
+  <circle cx="160" cy="126" r="8" fill="#fbbf24"/>
+  <circle cx="192" cy="126" r="8" fill="#4ade80"/>
+  <text x="228" y="138" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Pattern output</text>
+  <g font-family="Courier New, monospace" font-size="34" font-weight="700" fill="#1f2937">
+    <text x="170" y="230">7</text>
+    <text x="170" y="280">4  9</text>
+    <text x="170" y="330">2  8  5</text>
+    <text x="170" y="380">6  1  3  9</text>
+  </g>
+  <rect x="520" y="422" width="136" height="34" rx="17" fill="#0ea5e9"/>
+  <text x="588" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Random values</text>
+</svg>

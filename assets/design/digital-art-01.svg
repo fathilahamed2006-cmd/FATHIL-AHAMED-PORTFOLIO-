@@ -1,0 +1,10 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#f3eee9"/>
+  <rect x="110" y="90" width="680" height="1020" rx="32" fill="#201d2a"/>
+  <circle cx="260" cy="420" r="190" fill="#edb86d" opacity="0.8"/>
+  <circle cx="610" cy="465" r="220" fill="#9aa8ff" opacity="0.55"/>
+  <circle cx="440" cy="740" r="240" fill="#f3d9a6" opacity="0.6"/>
+  <path d="M180 860 C260 760, 330 720, 420 780 C490 820, 560 840, 690 800" fill="none" stroke="#fff" stroke-width="5" opacity="0.7"/>
+  <text x="450" y="200" text-anchor="middle" font-family="Verdana, sans-serif" font-size="30" letter-spacing="8" fill="#f5e3c8">DIGITAL ARTWORK</text>
+  <text x="450" y="980" text-anchor="middle" font-family="Georgia, serif" font-size="66" fill="#f4efe9">Imagined forms</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="28" fill="url(#bg)"/>
+  <rect x="80" y="70" width="640" height="460" rx="22" fill="#f8fafc"/>
+  <circle cx="120" cy="120" r="8" fill="#f59e0b"/>
+  <circle cx="155" cy="120" r="8" fill="#fbbf24"/>
+  <circle cx="190" cy="120" r="8" fill="#fcd34d"/>
+  <text x="120" y="210" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Temperature Converter</text>
+  <rect x="120" y="245" width="560" height="64" rx="18" fill="#e2e8f0"/>
+  <text x="150" y="286" font-family="Arial, sans-serif" font-size="23" fill="#475569">Value</text>
+  <text x="540" y="286" text-anchor="end" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">25 °C</text>
+  <rect x="120" y="335" width="560" height="80" rx="18" fill="#dbeafe"/>
+  <text x="150" y="384" font-family="Arial, sans-serif" font-size="24" fill="#1d4ed8">77 °F</text>
+  <text x="545" y="384" text-anchor="end" font-family="Arial, sans-serif" font-size="18" fill="#3b82f6">Converted Output</text>
+  <rect x="120" y="440" width="100" height="38" rx="19" fill="#0ea5e9"/>
+  <text x="170" y="466" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Convert</text>
+  <text x="500" y="470" text-anchor="end" font-family="Arial, sans-serif" font-size="20" fill="#334155">298.15 K</text>
+</svg>

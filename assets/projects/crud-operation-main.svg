@@ -1,0 +1,32 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="28" fill="#f8fafc"/>
+  <rect x="60" y="60" width="680" height="480" rx="22" fill="#ffffff" stroke="#dbe2ea"/>
+  <rect x="80" y="90" width="640" height="54" rx="14" fill="#eef2ff"/>
+  <circle cx="110" cy="117" r="7" fill="#a78bfa"/>
+  <circle cx="138" cy="117" r="7" fill="#c4b5fd"/>
+  <circle cx="166" cy="117" r="7" fill="#ddd6fe"/>
+  <text x="210" y="127" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1f2937">Records</text>
+  <rect x="80" y="172" width="220" height="110" rx="16" fill="#ecfeff"/>
+  <text x="106" y="212" font-family="Arial, sans-serif" font-size="18" fill="#0f766e">Total</text>
+  <text x="106" y="246" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#0f172a">120</text>
+  <rect x="330" y="172" width="220" height="110" rx="16" fill="#fef3c7"/>
+  <text x="356" y="212" font-family="Arial, sans-serif" font-size="18" fill="#b45309">Active</text>
+  <text x="356" y="246" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#0f172a">72</text>
+  <rect x="580" y="172" width="120" height="110" rx="16" fill="#e0f2fe"/>
+  <text x="606" y="212" font-family="Arial, sans-serif" font-size="18" fill="#0369a1">New</text>
+  <text x="606" y="246" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#0f172a">18</text>
+  <rect x="80" y="305" width="640" height="170" rx="16" fill="#f8fafc" stroke="#e2e8f0"/>
+  <rect x="96" y="330" width="610" height="44" rx="10" fill="#e2e8f0"/>
+  <text x="118" y="359" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#334155">Name</text>
+  <text x="350" y="359" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#334155">Email</text>
+  <text x="570" y="359" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#334155">Status</text>
+  <line x1="96" y1="390" x2="706" y2="390" stroke="#e2e8f0"/>
+  <text x="118" y="420" font-family="Arial, sans-serif" font-size="20" fill="#0f172a">Aisha</text>
+  <text x="350" y="420" font-family="Arial, sans-serif" font-size="20" fill="#0f172a">aisha@email.com</text>
+  <text x="570" y="420" font-family="Arial, sans-serif" font-size="20" fill="#16a34a">Active</text>
+  <text x="118" y="455" font-family="Arial, sans-serif" font-size="20" fill="#0f172a">Karan</text>
+  <text x="350" y="455" font-family="Arial, sans-serif" font-size="20" fill="#0f172a">karan@email.com</text>
+  <text x="570" y="455" font-family="Arial, sans-serif" font-size="20" fill="#f59e0b">Pending</text>
+  <rect x="618" y="497" width="102" height="32" rx="16" fill="#2563eb"/>
+  <text x="669" y="519" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">+ Create</text>
+</svg>

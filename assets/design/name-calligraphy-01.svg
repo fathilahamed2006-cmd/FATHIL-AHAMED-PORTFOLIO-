@@ -1,0 +1,9 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#f9f2ea"/>
+  <rect x="90" y="90" width="720" height="1020" rx="28" fill="#fffdfb" stroke="#dbc8a5" stroke-width="3"/>
+  <circle cx="450" cy="510" r="300" fill="#f0e0c9" opacity="0.6"/>
+  <path d="M250 780 C330 620, 350 520, 450 430 C550 520, 570 620, 650 780" fill="none" stroke="#8f6a3a" stroke-width="10" stroke-linecap="round"/>
+  <text x="450" y="720" text-anchor="middle" font-family="Georgia, serif" font-size="170" fill="#8f6a3a">فاطمة</text>
+  <text x="450" y="880" text-anchor="middle" font-family="Georgia, serif" font-size="30" letter-spacing="8" fill="#6e4a2b">CUSTOM NAME</text>
+  <text x="450" y="940" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#6e4a2b">Arabic-inspired calligraphy</text>
+</svg>
